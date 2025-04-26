@@ -12,3 +12,19 @@ Text output interface
 Lightweight and efficient model
 
 Scalable for mobile/web deployment in the future
+
+Tech Stack
+Programming Language: Python
+
+Libraries/Frameworks: TensorFlow, Keras, OpenCV, NumPy
+
+Tools: Jupyter Notebook / Visual Studio Code
+
+Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/sign-language-to-text.git
+cd sign-language-to-text
