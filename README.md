@@ -23,7 +23,7 @@ Tools: Jupyter Notebook / Visual Studio Code
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/sign-language-to-text.git
+https://github.com/dubey233445/Ashish_dubey_cse-ai-ml-_E__Sign-Language-to-Text.git
 cd sign-language-to-text
 
 Install the required packages:
