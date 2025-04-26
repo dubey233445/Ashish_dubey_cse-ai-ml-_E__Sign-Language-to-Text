@@ -2,6 +2,7 @@ Sign Language to Text is a real-time system that recognizes Indian Sign Language
 
 
 Features
+
 Real-time ISL gesture recognition
 
 Static and dynamic gesture detection
