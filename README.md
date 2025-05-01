@@ -1,95 +1,78 @@
-Sign Language to Text is a real-time system that recognizes Indian Sign Language (ISL) gestures using CNN-LSTM models and translates them into text. Built with Python, TensorFlow, and OpenCV, it aims to make communication more inclusive and accessible.
+Sign Language to Speech Conversion
+Sign Language to Text is a real-time system that recognizes Indian Sign Language (ISL) gestures using a hybrid CNN-LSTM model and translates them into readable text. Built with Python, TensorFlow, and OpenCV, this project aims to make communication more inclusive and accessible for the hearing and speech impaired.
 
-Team Member
+👨‍💻 Team Members
+Varun Kumar (2301730326)
 
-varun Kumar(2301730326)
+Ashish Dubey (2301730341)
 
-Ashish Dubey(2301730341)
+Bhaumik (2301730328)
 
-Bhaumik(2301730328)
+Adil Khan (2301730323)
 
-Adil Khan(2301730323)
+✨ Features
+✅ Real-time ISL gesture recognition
 
+✋ Static and dynamic gesture detection
 
+💬 Text output interface
 
-Features
+⚡ Lightweight and efficient model
 
+📱 Scalable for mobile and web deployment
 
-Real-time ISL gesture recognition
-
-Static and dynamic gesture detection
-
-Text output interface
-
-Lightweight and efficient model
-
-Scalable for mobile/web deployment in the future
-
-
-
-
-Tech Stack
-
+🛠️ Tech Stack
 Programming Language: Python
 
 Libraries/Frameworks: TensorFlow, Keras, OpenCV, NumPy
 
-Tools: Jupyter Notebook / Visual Studio Code
+Tools: Jupyter Notebook, Visual Studio Code
 
+🚀 Installation
+Clone the Repository
 
-
-Installation
-Clone the repository:
-
-https://github.com/dubey233445/Ashish_dubey_cse-ai-ml-_E__Sign-Language-to-Text.git
-
+bash
+Copy
+Edit
+git clone https://github.com/dubey233445/Ashish_dubey_cse-ai-ml-_E__Sign-Language-to-Text.git
 cd sign-language-to-text
+Install Dependencies
 
-Install the required packages:
-
+bash
+Copy
+Edit
 pip install -r requirements.txt
+Run the Application
 
-Run the application:
-
+bash
+Copy
+Edit
 python app.py
-
-
-Usage
-
+🎯 Usage
 Start the application.
 
 Allow webcam access.
 
-Perform sign gestures in front of the camera.
+Perform ISL gestures in front of the camera.
 
-The recognized sign will be converted and displayed as text.
+The system will recognize and display the corresponding text output in real time.
 
-Future Work
+🔮 Future Work
+🔊 Add speech synthesis for sign-to-speech functionality
 
-Add speech synthesis for sign-to-speech functionality.
+🧠 Expand dataset to support more ISL gestures
 
-Expand dataset to include more ISL gestures.
+🌐 Deploy to web and mobile platforms
 
-Deploy system to web and mobile platforms.
+🌍 Integrate multilingual translation (e.g., Hindi, English)
 
-Multilingual translation (Hindi, English, etc.)
+🤝 Contributing
+Contributions are welcome!
+Please open an issue for any major changes you'd like to propose.
+Feel free to fork the repository and submit a pull request.
 
-Contributing
+📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-Pull requests are welcome!
-
-For major changes, please open an issue first to discuss what you would like to change.
-
-License
-This project is open source and available under the MIT License.
-
- Video Explanation Link
-
- https://drive.google.com/file/d/1N1AA_BZiEzt1a2gMTNXNldBZlDYtw-fZ/view?usp=drive_link
-
-
-
-
-
-
-
+🎥 Video Demonstration
+Watch the Demo Video
