@@ -55,3 +55,39 @@ pip install -r requirements.txt
 
 # Run the application
 python app.py
+```
+---
+# ▶️ Usage
+
+Start the application
+
+Allow webcam access
+
+Perform ISL gestures in front of the camera
+
+Recognized gestures will be displayed as text in real time
+---
+# 🔮 Future Work
+Add sign-to-speech functionality
+
+Expand the ISL gesture dataset
+
+Deploy system to web and mobile platforms
+
+Support multilingual translation (e.g., Hindi, English)
+---
+# 🤝 Contributing
+
+Pull requests are welcome!
+
+For major changes, please open an issue first to discuss your ideas.
+
+📜 License
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
+----
+
+# 🎥 Video Demonstration
+
+https://drive.google.com/file/d/1N1AA_BZiEzt1a2gMTNXNldBZlDYtw-fZ/view?usp=drive_link
