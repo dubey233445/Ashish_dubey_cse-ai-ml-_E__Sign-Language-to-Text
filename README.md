@@ -4,14 +4,6 @@ A real-time system that recognizes Indian Sign Language (ISL) gestures using a C
 Built with Python, TensorFlow, and OpenCV to promote inclusive communication.
 
 ---
-
-# 👥 Team Members
-
-- Varun Kumar (2301730326)  
-- Ashish Dubey (2301730341)  
-- Bhaumik (2301730328)  
-- Adil Khan (2301730323)
-
 ---
 
 # ✨ Features
@@ -87,7 +79,3 @@ This project is licensed under the MIT License.
 
 See the LICENSE file for details.
 ----
-
-# 🎥 Video Demonstration
-
-https://drive.google.com/file/d/1N1AA_BZiEzt1a2gMTNXNldBZlDYtw-fZ/view?usp=drive_link
